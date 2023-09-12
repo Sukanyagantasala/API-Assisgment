@@ -1,4 +1,3 @@
-
 const quoteContainer = document.querySelector('.quote');
 const newQuoteBtn = document.getElementById('new-quote-btn');
 
