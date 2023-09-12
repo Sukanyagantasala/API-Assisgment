@@ -1,4 +1,3 @@
-
 document.getElementById("search").addEventListener("click", function () {
   const city = document.getElementById("city").value;
   const apiKey = "c3d2b91ff89b76afaa7766078a62b060"; 
